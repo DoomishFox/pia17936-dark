@@ -2,13 +2,19 @@
     "name": "pia17936-dark",
     "displayName": "PIA17936",
     "description": "A subtle dark theme designed around the PIA17936 image.",
+    "icon": "images/icon.png",
     "version": "0.0.1",
+    "publisher": "moon moon 🌸",
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DoomishFox/pia17936-dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -17,5 +23,10 @@
                 "path": "./themes/PIA17936-color-theme.json"
             }
         ]
-    }
+    },
+
+    "galleryBanner": {
+		"color": "#191a1a",
+		"theme": "dark"
+	}
 }
