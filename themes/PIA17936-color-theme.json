@@ -77,6 +77,10 @@
 		"list.focusForeground": "#b2b2b2",
 		"list.focusBackground": "#474b4d",
 
+		"gitDecoration.deletedResourceForeground": "#663330",
+		"gitDecoration.addedResourceForeground": "#949f8f",
+		"gitDecoration.modifiedResourceForeground": "#9f9d8f",
+
 		"dropdown.background": "#252526",
 		"dropdown.border": "#212324",
 		"dropdown.foreground": "#b2b2b2",

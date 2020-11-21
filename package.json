@@ -4,17 +4,19 @@
     "description": "A subtle dark theme designed around the PIA17936 image.",
     "icon": "images/icon.png",
     "version": "0.0.1",
-    "publisher": "moon moon 🌸",
+    "publisher": "DoomishFox",
     "engines": {
         "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
     ],
+
     "repository": {
         "type": "git",
         "url": "https://github.com/DoomishFox/pia17936-dark"
     },
+    
     "contributes": {
         "themes": [
             {
