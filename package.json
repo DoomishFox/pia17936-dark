@@ -3,7 +3,7 @@
     "displayName": "PIA17936",
     "description": "A subtle dark theme designed around the PIA17936 image.",
     "icon": "images/icon.png",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "DoomishFox",
     "engines": {
         "vscode": "^1.51.0"
