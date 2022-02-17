@@ -23,6 +23,11 @@
                 "label": "PIA17936",
                 "uiTheme": "vs-dark",
                 "path": "./themes/PIA17936-color-theme.json"
+            },
+            {
+                "label": "PIA17936-unitalic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PIA17936-color-theme-unitalic.json"
             }
         ]
     },
